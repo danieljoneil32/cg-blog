@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+p.text-gray-800.font-serif.text-base.px-6.mb-5 {
+    color: red;
+}
